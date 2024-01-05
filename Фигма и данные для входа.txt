@@ -1,0 +1,13 @@
+Ссылка на фигму: 
+https://www.figma.com/file/6wWhO74ixnpIw7MWPNBPBW/DispetcherKremko(colorless)?type=design&node-id=0%3A1&mode=design&t=Yskl3Vf9uXBG2EjP-1
+
+А насчёт данных, в проекте подключена БД к моему локальному серверу, поскольку делал через sql server management studio.
+И вот, при запуске проекта подключается БД, если не удасться, то не будет работать. Там идёт проверка в коде, но вот данные для входа всякий:
+
+Диспетчер:
+email: shapskiyalexey@gmail.com
+password: SA1.worker
+
+Исполнитель:
+email: adamcortese2019@gmail.com
+password: worker1234.
